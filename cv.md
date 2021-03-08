@@ -25,3 +25,12 @@ Now I am a student of Belarusian State University of informatics and Radioelectr
 Faculty of Informational Technologies and Control, 2d course.
 ### English
 At school i was attending International House school for two years and had b2 level. Also had practice of communication with native speaker.
+
+
+
+
+
+
+
+
+

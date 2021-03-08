@@ -1,0 +1,30 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+    margin:0;
+    padding: 10px;
+}
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    width: 100%;
+    background-color: #f5f5dc;
+    color: #5c4425;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+p{
+    margin-left: auto;
+    margin-right: auto;
+}
+ul{
+    list-style: none;
+}
+
+.photo{
+    height: 500px;
+    width: 345px;
+    margin: auto;
+}
